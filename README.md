@@ -35,7 +35,6 @@ docker-compose-project/
 ├── docker-compose.yml
 │
 ├── frontend/
-│   ├── Dockerfile
 │   └── index.html
 │
 ├── backend/
@@ -43,8 +42,7 @@ docker-compose-project/
 │   ├── app.py
 │   └── requirements.txt
 │
-└── db/
-    └── init.sql
+└── init.sql
 ```
 
 ---
